@@ -53,7 +53,7 @@ public class Main {
             }
 
             if (invalidCustomer.invalidFields.size() > 0)
-                response.allInvalidCustomers.add(invalidCustomer);
+                response.invalid_customers.add(invalidCustomer);
         }
         ObjectMapper mapper = new ObjectMapper();
         String x = mapper.writeValueAsString(response);
