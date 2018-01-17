@@ -1,3 +1,5 @@
+EDITED
+
 Final output 
 
 {"invalid_customers":[{"id":2,"invalidFields":["name"]},{"id":3,"invalidFields":["newsletter"]},{"id":5,"invalidFields":["name"]}]}
